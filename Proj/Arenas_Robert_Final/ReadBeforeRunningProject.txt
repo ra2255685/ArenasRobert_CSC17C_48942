@@ -1,0 +1,19 @@
+
+From, Robert Arenas Id: 2255685
+
+
+I included this file to let you know that i was not able to properly 
+implement problem number 6 it does function but for reasons i cold not solve the 
+shortest bath goes in the opposite direction of which i need ed it to go 
+it goes bos mia lax instead of bos sfo lax which would actually be the.
+i would appreciate it if you could give me feed back on what i was doing wrong on 
+this problem by contacting me at rarenas1@student.rcc.edu i really want to know why my 
+approach was wrong.
+
+thanks in advance
+
+also i only implemented a skeleton of e=what i actually wanted to do on problem 3 
+because i had planned to come back to it after finishing problem 6 but that took muchlonge than 
+i anticipated.
+
+one last thing the initials.txtt is required for problems 1 and 5.
